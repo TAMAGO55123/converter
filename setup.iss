@@ -8,7 +8,7 @@
 #define MyAppURL "https://github.com/TAMAGO55123/converter"
 
 [Setup]
-AppId={F5A157C3-EC14-447E-9DD0-17B424B46C06}
+AppId={{F5A157C3-EC14-447E-9DD0-17B424B46C06}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
@@ -17,10 +17,10 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={autopf}\Converter-V
 DefaultGroupName=Converter-V
-LicenseFile=C:\Users\tamag\Desktop\Programs\converter-v\LICENSE
-OutputDir=C:\Users\tamag\Desktop\Programs\converter-v\build
+LicenseFile=C:\Users\tamag\Desktop\Programs\conv2\LICENSE
+OutputDir=C:\Users\tamag\Desktop\Programs\conv2\Output
 OutputBaseFilename=conv-setup
-SetupIconFile=C:\Users\tamag\Desktop\Programs\converter-v\ico.ico
+SetupIconFile=C:\Users\tamag\Desktop\Programs\conv2\ico.ico
 SolidCompression=yes
 WizardStyle=classic dynamic
 
